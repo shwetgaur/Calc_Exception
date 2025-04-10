@@ -71,12 +71,8 @@ Each file and function is committed separately in the GitHub repository.
 
 All source files, along with commit history for each function and file, can be found in the GitHub repository.
 
-🔗 [GitHub Repository Link](https://github.com/yourusername/Calculator)  
-*(Replace with your actual repo link)*
+🔗 [GitHub Repository Link](https://github.com/shwetgaur/Calc_Exception.git)  
+
 
 ---
 
-## 📄 Submission Format
-
-- All `.java` files are compiled into a single `.pdf` document for submission.
-- The final page of the PDF contains the GitHub repository link.
